@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals-C#\Exercise Objects and Classes\Exercise Objects and Classes\bin\Debug\netcoreapp3.1\Exercise Objects and Classes.exe
+D:\SoftUni\Fundamentals-C#\Exercise Objects and Classes\Exercise Objects and Classes\bin\Debug\netcoreapp3.1\Exercise Objects and Classes.deps.json
+D:\SoftUni\Fundamentals-C#\Exercise Objects and Classes\Exercise Objects and Classes\bin\Debug\netcoreapp3.1\Exercise Objects and Classes.runtimeconfig.json
+D:\SoftUni\Fundamentals-C#\Exercise Objects and Classes\Exercise Objects and Classes\bin\Debug\netcoreapp3.1\Exercise Objects and Classes.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals-C#\Exercise Objects and Classes\Exercise Objects and Classes\bin\Debug\netcoreapp3.1\Exercise Objects and Classes.dll
+D:\SoftUni\Fundamentals-C#\Exercise Objects and Classes\Exercise Objects and Classes\bin\Debug\netcoreapp3.1\Exercise Objects and Classes.pdb
+D:\SoftUni\Fundamentals-C#\Exercise Objects and Classes\Exercise Objects and Classes\obj\Debug\netcoreapp3.1\Exercise Objects and Classes.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals-C#\Exercise Objects and Classes\Exercise Objects and Classes\obj\Debug\netcoreapp3.1\Exercise Objects and Classes.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals-C#\Exercise Objects and Classes\Exercise Objects and Classes\obj\Debug\netcoreapp3.1\Exercise Objects and Classes.AssemblyInfo.cs
+D:\SoftUni\Fundamentals-C#\Exercise Objects and Classes\Exercise Objects and Classes\obj\Debug\netcoreapp3.1\Exercise Objects and Classes.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals-C#\Exercise Objects and Classes\Exercise Objects and Classes\obj\Debug\netcoreapp3.1\Exercise Objects and Classes.dll
+D:\SoftUni\Fundamentals-C#\Exercise Objects and Classes\Exercise Objects and Classes\obj\Debug\netcoreapp3.1\Exercise Objects and Classes.pdb
+D:\SoftUni\Fundamentals-C#\Exercise Objects and Classes\Exercise Objects and Classes\obj\Debug\netcoreapp3.1\Exercise Objects and Classes.genruntimeconfig.cache

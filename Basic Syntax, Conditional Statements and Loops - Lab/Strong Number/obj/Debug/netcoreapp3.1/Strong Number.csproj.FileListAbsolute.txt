@@ -1,0 +1,12 @@
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\Strong Number\bin\Debug\netcoreapp3.1\Strong Number.exe
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\Strong Number\bin\Debug\netcoreapp3.1\Strong Number.deps.json
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\Strong Number\bin\Debug\netcoreapp3.1\Strong Number.runtimeconfig.json
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\Strong Number\bin\Debug\netcoreapp3.1\Strong Number.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\Strong Number\bin\Debug\netcoreapp3.1\Strong Number.dll
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\Strong Number\bin\Debug\netcoreapp3.1\Strong Number.pdb
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\Strong Number\obj\Debug\netcoreapp3.1\Strong Number.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\Strong Number\obj\Debug\netcoreapp3.1\Strong Number.AssemblyInfo.cs
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\Strong Number\obj\Debug\netcoreapp3.1\Strong Number.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\Strong Number\obj\Debug\netcoreapp3.1\Strong Number.dll
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\Strong Number\obj\Debug\netcoreapp3.1\Strong Number.pdb
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\Strong Number\obj\Debug\netcoreapp3.1\Strong Number.genruntimeconfig.cache

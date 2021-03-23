@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\VENDING mACHINE'\bin\Debug\netcoreapp3.1\VENDING mACHINE'.exe
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\VENDING mACHINE'\bin\Debug\netcoreapp3.1\VENDING mACHINE'.deps.json
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\VENDING mACHINE'\bin\Debug\netcoreapp3.1\VENDING mACHINE'.runtimeconfig.json
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\VENDING mACHINE'\bin\Debug\netcoreapp3.1\VENDING mACHINE'.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\VENDING mACHINE'\bin\Debug\netcoreapp3.1\VENDING mACHINE'.dll
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\VENDING mACHINE'\bin\Debug\netcoreapp3.1\VENDING mACHINE'.pdb
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\VENDING mACHINE'\obj\Debug\netcoreapp3.1\VENDING mACHINE'.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\VENDING mACHINE'\obj\Debug\netcoreapp3.1\VENDING mACHINE'.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\VENDING mACHINE'\obj\Debug\netcoreapp3.1\VENDING mACHINE'.AssemblyInfo.cs
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\VENDING mACHINE'\obj\Debug\netcoreapp3.1\VENDING mACHINE'.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\VENDING mACHINE'\obj\Debug\netcoreapp3.1\VENDING mACHINE'.dll
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\VENDING mACHINE'\obj\Debug\netcoreapp3.1\VENDING mACHINE'.pdb
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\VENDING mACHINE'\obj\Debug\netcoreapp3.1\VENDING mACHINE'.genruntimeconfig.cache

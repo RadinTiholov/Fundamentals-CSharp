@@ -1,0 +1,12 @@
+D:\SoftUni\Fundamentals-C#\Exercise Regular Expressions\6. Extract Emails\bin\Debug\netcoreapp3.1\6. Extract Emails.exe
+D:\SoftUni\Fundamentals-C#\Exercise Regular Expressions\6. Extract Emails\bin\Debug\netcoreapp3.1\6. Extract Emails.deps.json
+D:\SoftUni\Fundamentals-C#\Exercise Regular Expressions\6. Extract Emails\bin\Debug\netcoreapp3.1\6. Extract Emails.runtimeconfig.json
+D:\SoftUni\Fundamentals-C#\Exercise Regular Expressions\6. Extract Emails\bin\Debug\netcoreapp3.1\6. Extract Emails.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals-C#\Exercise Regular Expressions\6. Extract Emails\bin\Debug\netcoreapp3.1\6. Extract Emails.dll
+D:\SoftUni\Fundamentals-C#\Exercise Regular Expressions\6. Extract Emails\bin\Debug\netcoreapp3.1\6. Extract Emails.pdb
+D:\SoftUni\Fundamentals-C#\Exercise Regular Expressions\6. Extract Emails\obj\Debug\netcoreapp3.1\6. Extract Emails.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals-C#\Exercise Regular Expressions\6. Extract Emails\obj\Debug\netcoreapp3.1\6. Extract Emails.AssemblyInfo.cs
+D:\SoftUni\Fundamentals-C#\Exercise Regular Expressions\6. Extract Emails\obj\Debug\netcoreapp3.1\6. Extract Emails.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals-C#\Exercise Regular Expressions\6. Extract Emails\obj\Debug\netcoreapp3.1\6. Extract Emails.dll
+D:\SoftUni\Fundamentals-C#\Exercise Regular Expressions\6. Extract Emails\obj\Debug\netcoreapp3.1\6. Extract Emails.pdb
+D:\SoftUni\Fundamentals-C#\Exercise Regular Expressions\6. Extract Emails\obj\Debug\netcoreapp3.1\6. Extract Emails.genruntimeconfig.cache

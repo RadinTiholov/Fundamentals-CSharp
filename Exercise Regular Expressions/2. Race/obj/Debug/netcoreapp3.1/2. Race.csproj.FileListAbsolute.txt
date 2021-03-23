@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals-C#\Exercise Regular Expressions\2. Race\bin\Debug\netcoreapp3.1\2. Race.exe
+D:\SoftUni\Fundamentals-C#\Exercise Regular Expressions\2. Race\bin\Debug\netcoreapp3.1\2. Race.deps.json
+D:\SoftUni\Fundamentals-C#\Exercise Regular Expressions\2. Race\bin\Debug\netcoreapp3.1\2. Race.runtimeconfig.json
+D:\SoftUni\Fundamentals-C#\Exercise Regular Expressions\2. Race\bin\Debug\netcoreapp3.1\2. Race.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals-C#\Exercise Regular Expressions\2. Race\bin\Debug\netcoreapp3.1\2. Race.dll
+D:\SoftUni\Fundamentals-C#\Exercise Regular Expressions\2. Race\bin\Debug\netcoreapp3.1\2. Race.pdb
+D:\SoftUni\Fundamentals-C#\Exercise Regular Expressions\2. Race\obj\Debug\netcoreapp3.1\2. Race.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals-C#\Exercise Regular Expressions\2. Race\obj\Debug\netcoreapp3.1\2. Race.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals-C#\Exercise Regular Expressions\2. Race\obj\Debug\netcoreapp3.1\2. Race.AssemblyInfo.cs
+D:\SoftUni\Fundamentals-C#\Exercise Regular Expressions\2. Race\obj\Debug\netcoreapp3.1\2. Race.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals-C#\Exercise Regular Expressions\2. Race\obj\Debug\netcoreapp3.1\2. Race.dll
+D:\SoftUni\Fundamentals-C#\Exercise Regular Expressions\2. Race\obj\Debug\netcoreapp3.1\2. Race.pdb
+D:\SoftUni\Fundamentals-C#\Exercise Regular Expressions\2. Race\obj\Debug\netcoreapp3.1\2. Race.genruntimeconfig.cache

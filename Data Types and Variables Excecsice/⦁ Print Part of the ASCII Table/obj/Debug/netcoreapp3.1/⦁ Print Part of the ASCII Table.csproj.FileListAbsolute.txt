@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\⦁ Print Part of the ASCII Table.exe
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\⦁ Print Part of the ASCII Table.deps.json
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\⦁ Print Part of the ASCII Table.runtimeconfig.json
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\⦁ Print Part of the ASCII Table.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\⦁ Print Part of the ASCII Table.dll
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\⦁ Print Part of the ASCII Table.pdb
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\⦁ Print Part of the ASCII Table.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\⦁ Print Part of the ASCII Table.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\⦁ Print Part of the ASCII Table.AssemblyInfo.cs
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\⦁ Print Part of the ASCII Table.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\⦁ Print Part of the ASCII Table.dll
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\⦁ Print Part of the ASCII Table.pdb
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\⦁ Print Part of the ASCII Table.genruntimeconfig.cache

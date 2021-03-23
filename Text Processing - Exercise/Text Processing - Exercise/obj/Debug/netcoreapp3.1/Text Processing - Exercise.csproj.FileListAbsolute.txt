@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals-C#\Text Processing - Exercise\Text Processing - Exercise\bin\Debug\netcoreapp3.1\Text Processing - Exercise.exe
+D:\SoftUni\Fundamentals-C#\Text Processing - Exercise\Text Processing - Exercise\bin\Debug\netcoreapp3.1\Text Processing - Exercise.deps.json
+D:\SoftUni\Fundamentals-C#\Text Processing - Exercise\Text Processing - Exercise\bin\Debug\netcoreapp3.1\Text Processing - Exercise.runtimeconfig.json
+D:\SoftUni\Fundamentals-C#\Text Processing - Exercise\Text Processing - Exercise\bin\Debug\netcoreapp3.1\Text Processing - Exercise.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals-C#\Text Processing - Exercise\Text Processing - Exercise\bin\Debug\netcoreapp3.1\Text Processing - Exercise.dll
+D:\SoftUni\Fundamentals-C#\Text Processing - Exercise\Text Processing - Exercise\bin\Debug\netcoreapp3.1\Text Processing - Exercise.pdb
+D:\SoftUni\Fundamentals-C#\Text Processing - Exercise\Text Processing - Exercise\obj\Debug\netcoreapp3.1\Text Processing - Exercise.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals-C#\Text Processing - Exercise\Text Processing - Exercise\obj\Debug\netcoreapp3.1\Text Processing - Exercise.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals-C#\Text Processing - Exercise\Text Processing - Exercise\obj\Debug\netcoreapp3.1\Text Processing - Exercise.AssemblyInfo.cs
+D:\SoftUni\Fundamentals-C#\Text Processing - Exercise\Text Processing - Exercise\obj\Debug\netcoreapp3.1\Text Processing - Exercise.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals-C#\Text Processing - Exercise\Text Processing - Exercise\obj\Debug\netcoreapp3.1\Text Processing - Exercise.dll
+D:\SoftUni\Fundamentals-C#\Text Processing - Exercise\Text Processing - Exercise\obj\Debug\netcoreapp3.1\Text Processing - Exercise.pdb
+D:\SoftUni\Fundamentals-C#\Text Processing - Exercise\Text Processing - Exercise\obj\Debug\netcoreapp3.1\Text Processing - Exercise.genruntimeconfig.cache

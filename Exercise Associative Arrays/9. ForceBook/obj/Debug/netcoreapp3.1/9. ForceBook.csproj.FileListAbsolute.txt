@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\9. ForceBook\bin\Debug\netcoreapp3.1\9. ForceBook.exe
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\9. ForceBook\bin\Debug\netcoreapp3.1\9. ForceBook.deps.json
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\9. ForceBook\bin\Debug\netcoreapp3.1\9. ForceBook.runtimeconfig.json
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\9. ForceBook\bin\Debug\netcoreapp3.1\9. ForceBook.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\9. ForceBook\bin\Debug\netcoreapp3.1\9. ForceBook.dll
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\9. ForceBook\bin\Debug\netcoreapp3.1\9. ForceBook.pdb
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\9. ForceBook\obj\Debug\netcoreapp3.1\9. ForceBook.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\9. ForceBook\obj\Debug\netcoreapp3.1\9. ForceBook.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\9. ForceBook\obj\Debug\netcoreapp3.1\9. ForceBook.AssemblyInfo.cs
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\9. ForceBook\obj\Debug\netcoreapp3.1\9. ForceBook.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\9. ForceBook\obj\Debug\netcoreapp3.1\9. ForceBook.dll
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\9. ForceBook\obj\Debug\netcoreapp3.1\9. ForceBook.pdb
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\9. ForceBook\obj\Debug\netcoreapp3.1\9. ForceBook.genruntimeconfig.cache

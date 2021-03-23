@@ -1,0 +1,12 @@
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\Vacation\bin\Debug\netcoreapp3.1\Vacation.exe
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\Vacation\bin\Debug\netcoreapp3.1\Vacation.deps.json
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\Vacation\bin\Debug\netcoreapp3.1\Vacation.runtimeconfig.json
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\Vacation\bin\Debug\netcoreapp3.1\Vacation.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\Vacation\bin\Debug\netcoreapp3.1\Vacation.dll
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\Vacation\bin\Debug\netcoreapp3.1\Vacation.pdb
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\Vacation\obj\Debug\netcoreapp3.1\Vacation.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\Vacation\obj\Debug\netcoreapp3.1\Vacation.AssemblyInfo.cs
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\Vacation\obj\Debug\netcoreapp3.1\Vacation.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\Vacation\obj\Debug\netcoreapp3.1\Vacation.dll
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\Vacation\obj\Debug\netcoreapp3.1\Vacation.pdb
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\Vacation\obj\Debug\netcoreapp3.1\Vacation.genruntimeconfig.cache

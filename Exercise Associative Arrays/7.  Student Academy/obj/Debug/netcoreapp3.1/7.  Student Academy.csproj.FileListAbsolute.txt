@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\7.  Student Academy\bin\Debug\netcoreapp3.1\7.  Student Academy.exe
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\7.  Student Academy\bin\Debug\netcoreapp3.1\7.  Student Academy.deps.json
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\7.  Student Academy\bin\Debug\netcoreapp3.1\7.  Student Academy.runtimeconfig.json
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\7.  Student Academy\bin\Debug\netcoreapp3.1\7.  Student Academy.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\7.  Student Academy\bin\Debug\netcoreapp3.1\7.  Student Academy.dll
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\7.  Student Academy\bin\Debug\netcoreapp3.1\7.  Student Academy.pdb
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\7.  Student Academy\obj\Debug\netcoreapp3.1\7.  Student Academy.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\7.  Student Academy\obj\Debug\netcoreapp3.1\7.  Student Academy.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\7.  Student Academy\obj\Debug\netcoreapp3.1\7.  Student Academy.AssemblyInfo.cs
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\7.  Student Academy\obj\Debug\netcoreapp3.1\7.  Student Academy.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\7.  Student Academy\obj\Debug\netcoreapp3.1\7.  Student Academy.dll
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\7.  Student Academy\obj\Debug\netcoreapp3.1\7.  Student Academy.pdb
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\7.  Student Academy\obj\Debug\netcoreapp3.1\7.  Student Academy.genruntimeconfig.cache

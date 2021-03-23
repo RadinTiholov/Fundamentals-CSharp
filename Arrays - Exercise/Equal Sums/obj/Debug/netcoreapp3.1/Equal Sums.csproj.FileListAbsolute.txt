@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals-C#\Arrays - Exercise\Equal Sums\bin\Debug\netcoreapp3.1\Equal Sums.exe
+D:\SoftUni\Fundamentals-C#\Arrays - Exercise\Equal Sums\bin\Debug\netcoreapp3.1\Equal Sums.deps.json
+D:\SoftUni\Fundamentals-C#\Arrays - Exercise\Equal Sums\bin\Debug\netcoreapp3.1\Equal Sums.runtimeconfig.json
+D:\SoftUni\Fundamentals-C#\Arrays - Exercise\Equal Sums\bin\Debug\netcoreapp3.1\Equal Sums.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals-C#\Arrays - Exercise\Equal Sums\bin\Debug\netcoreapp3.1\Equal Sums.dll
+D:\SoftUni\Fundamentals-C#\Arrays - Exercise\Equal Sums\bin\Debug\netcoreapp3.1\Equal Sums.pdb
+D:\SoftUni\Fundamentals-C#\Arrays - Exercise\Equal Sums\obj\Debug\netcoreapp3.1\Equal Sums.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals-C#\Arrays - Exercise\Equal Sums\obj\Debug\netcoreapp3.1\Equal Sums.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals-C#\Arrays - Exercise\Equal Sums\obj\Debug\netcoreapp3.1\Equal Sums.AssemblyInfo.cs
+D:\SoftUni\Fundamentals-C#\Arrays - Exercise\Equal Sums\obj\Debug\netcoreapp3.1\Equal Sums.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals-C#\Arrays - Exercise\Equal Sums\obj\Debug\netcoreapp3.1\Equal Sums.dll
+D:\SoftUni\Fundamentals-C#\Arrays - Exercise\Equal Sums\obj\Debug\netcoreapp3.1\Equal Sums.pdb
+D:\SoftUni\Fundamentals-C#\Arrays - Exercise\Equal Sums\obj\Debug\netcoreapp3.1\Equal Sums.genruntimeconfig.cache

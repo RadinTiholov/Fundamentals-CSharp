@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals-C#\Exercise Regular Expressions\Exercise Regular Expressions\bin\Debug\netcoreapp3.1\Exercise Regular Expressions.exe
+D:\SoftUni\Fundamentals-C#\Exercise Regular Expressions\Exercise Regular Expressions\bin\Debug\netcoreapp3.1\Exercise Regular Expressions.deps.json
+D:\SoftUni\Fundamentals-C#\Exercise Regular Expressions\Exercise Regular Expressions\bin\Debug\netcoreapp3.1\Exercise Regular Expressions.runtimeconfig.json
+D:\SoftUni\Fundamentals-C#\Exercise Regular Expressions\Exercise Regular Expressions\bin\Debug\netcoreapp3.1\Exercise Regular Expressions.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals-C#\Exercise Regular Expressions\Exercise Regular Expressions\bin\Debug\netcoreapp3.1\Exercise Regular Expressions.dll
+D:\SoftUni\Fundamentals-C#\Exercise Regular Expressions\Exercise Regular Expressions\bin\Debug\netcoreapp3.1\Exercise Regular Expressions.pdb
+D:\SoftUni\Fundamentals-C#\Exercise Regular Expressions\Exercise Regular Expressions\obj\Debug\netcoreapp3.1\Exercise Regular Expressions.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals-C#\Exercise Regular Expressions\Exercise Regular Expressions\obj\Debug\netcoreapp3.1\Exercise Regular Expressions.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals-C#\Exercise Regular Expressions\Exercise Regular Expressions\obj\Debug\netcoreapp3.1\Exercise Regular Expressions.AssemblyInfo.cs
+D:\SoftUni\Fundamentals-C#\Exercise Regular Expressions\Exercise Regular Expressions\obj\Debug\netcoreapp3.1\Exercise Regular Expressions.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals-C#\Exercise Regular Expressions\Exercise Regular Expressions\obj\Debug\netcoreapp3.1\Exercise Regular Expressions.dll
+D:\SoftUni\Fundamentals-C#\Exercise Regular Expressions\Exercise Regular Expressions\obj\Debug\netcoreapp3.1\Exercise Regular Expressions.pdb
+D:\SoftUni\Fundamentals-C#\Exercise Regular Expressions\Exercise Regular Expressions\obj\Debug\netcoreapp3.1\Exercise Regular Expressions.genruntimeconfig.cache

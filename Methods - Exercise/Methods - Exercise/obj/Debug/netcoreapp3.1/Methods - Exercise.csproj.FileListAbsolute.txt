@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals-C#\Methods - Exercise\Methods - Exercise\bin\Debug\netcoreapp3.1\Methods - Exercise.exe
+D:\SoftUni\Fundamentals-C#\Methods - Exercise\Methods - Exercise\bin\Debug\netcoreapp3.1\Methods - Exercise.deps.json
+D:\SoftUni\Fundamentals-C#\Methods - Exercise\Methods - Exercise\bin\Debug\netcoreapp3.1\Methods - Exercise.runtimeconfig.json
+D:\SoftUni\Fundamentals-C#\Methods - Exercise\Methods - Exercise\bin\Debug\netcoreapp3.1\Methods - Exercise.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals-C#\Methods - Exercise\Methods - Exercise\bin\Debug\netcoreapp3.1\Methods - Exercise.dll
+D:\SoftUni\Fundamentals-C#\Methods - Exercise\Methods - Exercise\bin\Debug\netcoreapp3.1\Methods - Exercise.pdb
+D:\SoftUni\Fundamentals-C#\Methods - Exercise\Methods - Exercise\obj\Debug\netcoreapp3.1\Methods - Exercise.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals-C#\Methods - Exercise\Methods - Exercise\obj\Debug\netcoreapp3.1\Methods - Exercise.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals-C#\Methods - Exercise\Methods - Exercise\obj\Debug\netcoreapp3.1\Methods - Exercise.AssemblyInfo.cs
+D:\SoftUni\Fundamentals-C#\Methods - Exercise\Methods - Exercise\obj\Debug\netcoreapp3.1\Methods - Exercise.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals-C#\Methods - Exercise\Methods - Exercise\obj\Debug\netcoreapp3.1\Methods - Exercise.dll
+D:\SoftUni\Fundamentals-C#\Methods - Exercise\Methods - Exercise\obj\Debug\netcoreapp3.1\Methods - Exercise.pdb
+D:\SoftUni\Fundamentals-C#\Methods - Exercise\Methods - Exercise\obj\Debug\netcoreapp3.1\Methods - Exercise.genruntimeconfig.cache

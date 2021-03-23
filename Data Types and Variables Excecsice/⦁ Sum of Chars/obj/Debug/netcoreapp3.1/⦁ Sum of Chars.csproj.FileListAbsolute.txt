@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Sum of Chars\bin\Debug\netcoreapp3.1\⦁ Sum of Chars.exe
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Sum of Chars\bin\Debug\netcoreapp3.1\⦁ Sum of Chars.deps.json
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Sum of Chars\bin\Debug\netcoreapp3.1\⦁ Sum of Chars.runtimeconfig.json
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Sum of Chars\bin\Debug\netcoreapp3.1\⦁ Sum of Chars.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Sum of Chars\bin\Debug\netcoreapp3.1\⦁ Sum of Chars.dll
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Sum of Chars\bin\Debug\netcoreapp3.1\⦁ Sum of Chars.pdb
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Sum of Chars\obj\Debug\netcoreapp3.1\⦁ Sum of Chars.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Sum of Chars\obj\Debug\netcoreapp3.1\⦁ Sum of Chars.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Sum of Chars\obj\Debug\netcoreapp3.1\⦁ Sum of Chars.AssemblyInfo.cs
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Sum of Chars\obj\Debug\netcoreapp3.1\⦁ Sum of Chars.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Sum of Chars\obj\Debug\netcoreapp3.1\⦁ Sum of Chars.dll
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Sum of Chars\obj\Debug\netcoreapp3.1\⦁ Sum of Chars.pdb
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Sum of Chars\obj\Debug\netcoreapp3.1\⦁ Sum of Chars.genruntimeconfig.cache

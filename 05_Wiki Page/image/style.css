@@ -1,0 +1,21 @@
+p
+{
+    background-color: #BB2C0D;
+    color: aqua;
+}
+.ul
+{
+    background-color: blue;
+}
+div{
+    background-color: blueviolet;
+}
+#theBody
+{
+    background-color: darkgrey;
+}
+#theHeader
+{
+    text-align: center;
+    background-color: darkolivegreen;
+}

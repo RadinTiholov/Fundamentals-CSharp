@@ -1,0 +1,12 @@
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Triples of Latin Letters\bin\Debug\netcoreapp3.1\⦁ Triples of Latin Letters.exe
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Triples of Latin Letters\bin\Debug\netcoreapp3.1\⦁ Triples of Latin Letters.deps.json
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Triples of Latin Letters\bin\Debug\netcoreapp3.1\⦁ Triples of Latin Letters.runtimeconfig.json
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Triples of Latin Letters\bin\Debug\netcoreapp3.1\⦁ Triples of Latin Letters.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Triples of Latin Letters\bin\Debug\netcoreapp3.1\⦁ Triples of Latin Letters.dll
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Triples of Latin Letters\bin\Debug\netcoreapp3.1\⦁ Triples of Latin Letters.pdb
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Triples of Latin Letters\obj\Debug\netcoreapp3.1\⦁ Triples of Latin Letters.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Triples of Latin Letters\obj\Debug\netcoreapp3.1\⦁ Triples of Latin Letters.AssemblyInfo.cs
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Triples of Latin Letters\obj\Debug\netcoreapp3.1\⦁ Triples of Latin Letters.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Triples of Latin Letters\obj\Debug\netcoreapp3.1\⦁ Triples of Latin Letters.dll
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Triples of Latin Letters\obj\Debug\netcoreapp3.1\⦁ Triples of Latin Letters.pdb
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Triples of Latin Letters\obj\Debug\netcoreapp3.1\⦁ Triples of Latin Letters.genruntimeconfig.cache

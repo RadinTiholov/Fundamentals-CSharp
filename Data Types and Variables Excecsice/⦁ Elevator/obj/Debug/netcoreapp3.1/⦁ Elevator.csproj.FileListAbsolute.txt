@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Elevator\bin\Debug\netcoreapp3.1\⦁ Elevator.exe
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Elevator\bin\Debug\netcoreapp3.1\⦁ Elevator.deps.json
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Elevator\bin\Debug\netcoreapp3.1\⦁ Elevator.runtimeconfig.json
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Elevator\bin\Debug\netcoreapp3.1\⦁ Elevator.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Elevator\bin\Debug\netcoreapp3.1\⦁ Elevator.dll
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Elevator\bin\Debug\netcoreapp3.1\⦁ Elevator.pdb
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Elevator\obj\Debug\netcoreapp3.1\⦁ Elevator.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Elevator\obj\Debug\netcoreapp3.1\⦁ Elevator.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Elevator\obj\Debug\netcoreapp3.1\⦁ Elevator.AssemblyInfo.cs
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Elevator\obj\Debug\netcoreapp3.1\⦁ Elevator.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Elevator\obj\Debug\netcoreapp3.1\⦁ Elevator.dll
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Elevator\obj\Debug\netcoreapp3.1\⦁ Elevator.pdb
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\⦁ Elevator\obj\Debug\netcoreapp3.1\⦁ Elevator.genruntimeconfig.cache

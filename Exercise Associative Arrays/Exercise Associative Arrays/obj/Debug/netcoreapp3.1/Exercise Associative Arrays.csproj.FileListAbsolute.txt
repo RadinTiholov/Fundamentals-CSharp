@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\Exercise Associative Arrays\bin\Debug\netcoreapp3.1\Exercise Associative Arrays.exe
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\Exercise Associative Arrays\bin\Debug\netcoreapp3.1\Exercise Associative Arrays.deps.json
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\Exercise Associative Arrays\bin\Debug\netcoreapp3.1\Exercise Associative Arrays.runtimeconfig.json
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\Exercise Associative Arrays\bin\Debug\netcoreapp3.1\Exercise Associative Arrays.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\Exercise Associative Arrays\bin\Debug\netcoreapp3.1\Exercise Associative Arrays.dll
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\Exercise Associative Arrays\bin\Debug\netcoreapp3.1\Exercise Associative Arrays.pdb
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\Exercise Associative Arrays\obj\Debug\netcoreapp3.1\Exercise Associative Arrays.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\Exercise Associative Arrays\obj\Debug\netcoreapp3.1\Exercise Associative Arrays.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\Exercise Associative Arrays\obj\Debug\netcoreapp3.1\Exercise Associative Arrays.AssemblyInfo.cs
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\Exercise Associative Arrays\obj\Debug\netcoreapp3.1\Exercise Associative Arrays.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\Exercise Associative Arrays\obj\Debug\netcoreapp3.1\Exercise Associative Arrays.dll
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\Exercise Associative Arrays\obj\Debug\netcoreapp3.1\Exercise Associative Arrays.pdb
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\Exercise Associative Arrays\obj\Debug\netcoreapp3.1\Exercise Associative Arrays.genruntimeconfig.cache

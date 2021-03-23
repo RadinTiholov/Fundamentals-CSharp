@@ -1,0 +1,12 @@
+D:\SoftUni\Fundamentals-C#\Text Processing - Exercise\Multiply Big Number\bin\Debug\netcoreapp3.1\Multiply Big Number.exe
+D:\SoftUni\Fundamentals-C#\Text Processing - Exercise\Multiply Big Number\bin\Debug\netcoreapp3.1\Multiply Big Number.deps.json
+D:\SoftUni\Fundamentals-C#\Text Processing - Exercise\Multiply Big Number\bin\Debug\netcoreapp3.1\Multiply Big Number.runtimeconfig.json
+D:\SoftUni\Fundamentals-C#\Text Processing - Exercise\Multiply Big Number\bin\Debug\netcoreapp3.1\Multiply Big Number.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals-C#\Text Processing - Exercise\Multiply Big Number\bin\Debug\netcoreapp3.1\Multiply Big Number.dll
+D:\SoftUni\Fundamentals-C#\Text Processing - Exercise\Multiply Big Number\bin\Debug\netcoreapp3.1\Multiply Big Number.pdb
+D:\SoftUni\Fundamentals-C#\Text Processing - Exercise\Multiply Big Number\obj\Debug\netcoreapp3.1\Multiply Big Number.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals-C#\Text Processing - Exercise\Multiply Big Number\obj\Debug\netcoreapp3.1\Multiply Big Number.AssemblyInfo.cs
+D:\SoftUni\Fundamentals-C#\Text Processing - Exercise\Multiply Big Number\obj\Debug\netcoreapp3.1\Multiply Big Number.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals-C#\Text Processing - Exercise\Multiply Big Number\obj\Debug\netcoreapp3.1\Multiply Big Number.dll
+D:\SoftUni\Fundamentals-C#\Text Processing - Exercise\Multiply Big Number\obj\Debug\netcoreapp3.1\Multiply Big Number.pdb
+D:\SoftUni\Fundamentals-C#\Text Processing - Exercise\Multiply Big Number\obj\Debug\netcoreapp3.1\Multiply Big Number.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\4. Orders\bin\Debug\netcoreapp3.1\4. Orders.exe
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\4. Orders\bin\Debug\netcoreapp3.1\4. Orders.deps.json
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\4. Orders\bin\Debug\netcoreapp3.1\4. Orders.runtimeconfig.json
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\4. Orders\bin\Debug\netcoreapp3.1\4. Orders.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\4. Orders\bin\Debug\netcoreapp3.1\4. Orders.dll
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\4. Orders\bin\Debug\netcoreapp3.1\4. Orders.pdb
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\4. Orders\obj\Debug\netcoreapp3.1\4. Orders.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\4. Orders\obj\Debug\netcoreapp3.1\4. Orders.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\4. Orders\obj\Debug\netcoreapp3.1\4. Orders.AssemblyInfo.cs
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\4. Orders\obj\Debug\netcoreapp3.1\4. Orders.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\4. Orders\obj\Debug\netcoreapp3.1\4. Orders.dll
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\4. Orders\obj\Debug\netcoreapp3.1\4. Orders.pdb
+D:\SoftUni\Fundamentals-C#\Exercise Associative Arrays\4. Orders\obj\Debug\netcoreapp3.1\4. Orders.genruntimeconfig.cache

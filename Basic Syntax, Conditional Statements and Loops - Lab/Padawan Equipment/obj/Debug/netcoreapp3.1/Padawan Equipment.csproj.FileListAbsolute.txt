@@ -1,0 +1,12 @@
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\Padawan Equipment\bin\Debug\netcoreapp3.1\Padawan Equipment.exe
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\Padawan Equipment\bin\Debug\netcoreapp3.1\Padawan Equipment.deps.json
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\Padawan Equipment\bin\Debug\netcoreapp3.1\Padawan Equipment.runtimeconfig.json
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\Padawan Equipment\bin\Debug\netcoreapp3.1\Padawan Equipment.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\Padawan Equipment\bin\Debug\netcoreapp3.1\Padawan Equipment.dll
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\Padawan Equipment\bin\Debug\netcoreapp3.1\Padawan Equipment.pdb
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\Padawan Equipment\obj\Debug\netcoreapp3.1\Padawan Equipment.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\Padawan Equipment\obj\Debug\netcoreapp3.1\Padawan Equipment.AssemblyInfo.cs
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\Padawan Equipment\obj\Debug\netcoreapp3.1\Padawan Equipment.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\Padawan Equipment\obj\Debug\netcoreapp3.1\Padawan Equipment.dll
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\Padawan Equipment\obj\Debug\netcoreapp3.1\Padawan Equipment.pdb
+D:\SoftUni\Fundamentals-C#\Basic Syntax, Conditional Statements and Loops - Lab\Padawan Equipment\obj\Debug\netcoreapp3.1\Padawan Equipment.genruntimeconfig.cache

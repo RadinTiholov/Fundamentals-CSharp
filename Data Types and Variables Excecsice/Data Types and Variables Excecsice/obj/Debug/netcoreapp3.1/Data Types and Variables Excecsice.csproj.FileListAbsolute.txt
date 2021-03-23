@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\Data Types and Variables Excecsice\bin\Debug\netcoreapp3.1\Data Types and Variables Excecsice.exe
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\Data Types and Variables Excecsice\bin\Debug\netcoreapp3.1\Data Types and Variables Excecsice.deps.json
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\Data Types and Variables Excecsice\bin\Debug\netcoreapp3.1\Data Types and Variables Excecsice.runtimeconfig.json
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\Data Types and Variables Excecsice\bin\Debug\netcoreapp3.1\Data Types and Variables Excecsice.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\Data Types and Variables Excecsice\bin\Debug\netcoreapp3.1\Data Types and Variables Excecsice.dll
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\Data Types and Variables Excecsice\bin\Debug\netcoreapp3.1\Data Types and Variables Excecsice.pdb
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\Data Types and Variables Excecsice\obj\Debug\netcoreapp3.1\Data Types and Variables Excecsice.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\Data Types and Variables Excecsice\obj\Debug\netcoreapp3.1\Data Types and Variables Excecsice.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\Data Types and Variables Excecsice\obj\Debug\netcoreapp3.1\Data Types and Variables Excecsice.AssemblyInfo.cs
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\Data Types and Variables Excecsice\obj\Debug\netcoreapp3.1\Data Types and Variables Excecsice.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\Data Types and Variables Excecsice\obj\Debug\netcoreapp3.1\Data Types and Variables Excecsice.dll
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\Data Types and Variables Excecsice\obj\Debug\netcoreapp3.1\Data Types and Variables Excecsice.pdb
+D:\SoftUni\Fundamentals-C#\Data Types and Variables Excecsice\Data Types and Variables Excecsice\obj\Debug\netcoreapp3.1\Data Types and Variables Excecsice.genruntimeconfig.cache
