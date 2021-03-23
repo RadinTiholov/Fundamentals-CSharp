@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\Fundamentals-C#\\Exam prep\\Final Exam Retake 10.04.2020\\Final Exam Retake 10.04.2020.csproj": {}
+    "D:\\SoftUni\\Fundamentals-C#\\Exam prep\\Problem 2. Mirror words\\Problem 2. Mirror words.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\Fundamentals-C#\\Exam prep\\Final Exam Retake 10.04.2020\\Final Exam Retake 10.04.2020.csproj": {
+    "D:\\SoftUni\\Fundamentals-C#\\Exam prep\\Problem 2. Mirror words\\Problem 2. Mirror words.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\Fundamentals-C#\\Exam prep\\Final Exam Retake 10.04.2020\\Final Exam Retake 10.04.2020.csproj",
-        "projectName": "Final Exam Retake 10.04.2020",
-        "projectPath": "D:\\SoftUni\\Fundamentals-C#\\Exam prep\\Final Exam Retake 10.04.2020\\Final Exam Retake 10.04.2020.csproj",
+        "projectUniqueName": "D:\\SoftUni\\Fundamentals-C#\\Exam prep\\Problem 2. Mirror words\\Problem 2. Mirror words.csproj",
+        "projectName": "Problem 2. Mirror words",
+        "projectPath": "D:\\SoftUni\\Fundamentals-C#\\Exam prep\\Problem 2. Mirror words\\Problem 2. Mirror words.csproj",
         "packagesPath": "C:\\Users\\radit\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\Fundamentals-C#\\Exam prep\\Final Exam Retake 10.04.2020\\obj\\",
+        "outputPath": "D:\\SoftUni\\Fundamentals-C#\\Exam prep\\Problem 2. Mirror words\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\radit\\AppData\\Roaming\\NuGet\\NuGet.Config",

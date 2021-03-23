@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final Exam Retake 10.04.2020", "Final Exam Retake 10.04.2020\Final Exam Retake 10.04.2020.csproj", "{52EDB9AD-2DCA-4AF6-8113-81AB6A316ECC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Final Exam Retake 10.04.2020", "Final Exam Retake 10.04.2020\Final Exam Retake 10.04.2020.csproj", "{52EDB9AD-2DCA-4AF6-8113-81AB6A316ECC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2. Mirror words", "Problem 2. Mirror words\Problem 2. Mirror words.csproj", "{39D9C630-A3F7-48D8-B595-E580A78754FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{52EDB9AD-2DCA-4AF6-8113-81AB6A316ECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52EDB9AD-2DCA-4AF6-8113-81AB6A316ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52EDB9AD-2DCA-4AF6-8113-81AB6A316ECC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39D9C630-A3F7-48D8-B595-E580A78754FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39D9C630-A3F7-48D8-B595-E580A78754FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39D9C630-A3F7-48D8-B595-E580A78754FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39D9C630-A3F7-48D8-B595-E580A78754FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

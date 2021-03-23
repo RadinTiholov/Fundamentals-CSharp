@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals-C#\Exam prep\Problem 2. Mirror words\bin\Debug\netcoreapp3.1\Problem 2. Mirror words.exe
+D:\SoftUni\Fundamentals-C#\Exam prep\Problem 2. Mirror words\bin\Debug\netcoreapp3.1\Problem 2. Mirror words.deps.json
+D:\SoftUni\Fundamentals-C#\Exam prep\Problem 2. Mirror words\bin\Debug\netcoreapp3.1\Problem 2. Mirror words.runtimeconfig.json
+D:\SoftUni\Fundamentals-C#\Exam prep\Problem 2. Mirror words\bin\Debug\netcoreapp3.1\Problem 2. Mirror words.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals-C#\Exam prep\Problem 2. Mirror words\bin\Debug\netcoreapp3.1\Problem 2. Mirror words.dll
+D:\SoftUni\Fundamentals-C#\Exam prep\Problem 2. Mirror words\bin\Debug\netcoreapp3.1\Problem 2. Mirror words.pdb
+D:\SoftUni\Fundamentals-C#\Exam prep\Problem 2. Mirror words\obj\Debug\netcoreapp3.1\Problem 2. Mirror words.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals-C#\Exam prep\Problem 2. Mirror words\obj\Debug\netcoreapp3.1\Problem 2. Mirror words.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals-C#\Exam prep\Problem 2. Mirror words\obj\Debug\netcoreapp3.1\Problem 2. Mirror words.AssemblyInfo.cs
+D:\SoftUni\Fundamentals-C#\Exam prep\Problem 2. Mirror words\obj\Debug\netcoreapp3.1\Problem 2. Mirror words.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals-C#\Exam prep\Problem 2. Mirror words\obj\Debug\netcoreapp3.1\Problem 2. Mirror words.dll
+D:\SoftUni\Fundamentals-C#\Exam prep\Problem 2. Mirror words\obj\Debug\netcoreapp3.1\Problem 2. Mirror words.pdb
+D:\SoftUni\Fundamentals-C#\Exam prep\Problem 2. Mirror words\obj\Debug\netcoreapp3.1\Problem 2. Mirror words.genruntimeconfig.cache
