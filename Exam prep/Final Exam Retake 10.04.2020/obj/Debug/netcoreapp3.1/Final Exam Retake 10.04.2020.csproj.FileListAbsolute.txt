@@ -1,0 +1,13 @@
+D:\C# Practice\Final Exam Retake 10.04.2020\Final Exam Retake 10.04.2020\bin\Debug\netcoreapp3.1\Final Exam Retake 10.04.2020.exe
+D:\C# Practice\Final Exam Retake 10.04.2020\Final Exam Retake 10.04.2020\bin\Debug\netcoreapp3.1\Final Exam Retake 10.04.2020.deps.json
+D:\C# Practice\Final Exam Retake 10.04.2020\Final Exam Retake 10.04.2020\bin\Debug\netcoreapp3.1\Final Exam Retake 10.04.2020.runtimeconfig.json
+D:\C# Practice\Final Exam Retake 10.04.2020\Final Exam Retake 10.04.2020\bin\Debug\netcoreapp3.1\Final Exam Retake 10.04.2020.runtimeconfig.dev.json
+D:\C# Practice\Final Exam Retake 10.04.2020\Final Exam Retake 10.04.2020\bin\Debug\netcoreapp3.1\Final Exam Retake 10.04.2020.dll
+D:\C# Practice\Final Exam Retake 10.04.2020\Final Exam Retake 10.04.2020\bin\Debug\netcoreapp3.1\Final Exam Retake 10.04.2020.pdb
+D:\C# Practice\Final Exam Retake 10.04.2020\Final Exam Retake 10.04.2020\obj\Debug\netcoreapp3.1\Final Exam Retake 10.04.2020.csprojAssemblyReference.cache
+D:\C# Practice\Final Exam Retake 10.04.2020\Final Exam Retake 10.04.2020\obj\Debug\netcoreapp3.1\Final Exam Retake 10.04.2020.AssemblyInfoInputs.cache
+D:\C# Practice\Final Exam Retake 10.04.2020\Final Exam Retake 10.04.2020\obj\Debug\netcoreapp3.1\Final Exam Retake 10.04.2020.AssemblyInfo.cs
+D:\C# Practice\Final Exam Retake 10.04.2020\Final Exam Retake 10.04.2020\obj\Debug\netcoreapp3.1\Final Exam Retake 10.04.2020.csproj.CoreCompileInputs.cache
+D:\C# Practice\Final Exam Retake 10.04.2020\Final Exam Retake 10.04.2020\obj\Debug\netcoreapp3.1\Final Exam Retake 10.04.2020.dll
+D:\C# Practice\Final Exam Retake 10.04.2020\Final Exam Retake 10.04.2020\obj\Debug\netcoreapp3.1\Final Exam Retake 10.04.2020.pdb
+D:\C# Practice\Final Exam Retake 10.04.2020\Final Exam Retake 10.04.2020\obj\Debug\netcoreapp3.1\Final Exam Retake 10.04.2020.genruntimeconfig.cache
