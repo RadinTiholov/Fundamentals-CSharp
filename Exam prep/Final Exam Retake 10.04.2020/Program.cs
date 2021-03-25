@@ -39,7 +39,10 @@ namespace Final_Exam_Retake_10._04._2020
                 {
                     char subString = char.Parse(splitted[1]);
                     char replacement = char.Parse(splitted[2]);
-                    text = text.Replace(subString, replacement);
+                    while (text.Contains(subString))
+                    {
+                        text = text.Replace(subString, replacement);
+                    }
                     Console.WriteLine(text);
                 }
                 input = Console.ReadLine();

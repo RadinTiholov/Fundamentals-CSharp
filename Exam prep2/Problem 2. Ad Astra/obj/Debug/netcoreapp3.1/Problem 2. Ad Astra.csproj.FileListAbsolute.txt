@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals-C#\Exam prep2\Problem 2. Ad Astra\bin\Debug\netcoreapp3.1\Problem 2. Ad Astra.exe
+D:\SoftUni\Fundamentals-C#\Exam prep2\Problem 2. Ad Astra\bin\Debug\netcoreapp3.1\Problem 2. Ad Astra.deps.json
+D:\SoftUni\Fundamentals-C#\Exam prep2\Problem 2. Ad Astra\bin\Debug\netcoreapp3.1\Problem 2. Ad Astra.runtimeconfig.json
+D:\SoftUni\Fundamentals-C#\Exam prep2\Problem 2. Ad Astra\bin\Debug\netcoreapp3.1\Problem 2. Ad Astra.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals-C#\Exam prep2\Problem 2. Ad Astra\bin\Debug\netcoreapp3.1\Problem 2. Ad Astra.dll
+D:\SoftUni\Fundamentals-C#\Exam prep2\Problem 2. Ad Astra\bin\Debug\netcoreapp3.1\Problem 2. Ad Astra.pdb
+D:\SoftUni\Fundamentals-C#\Exam prep2\Problem 2. Ad Astra\obj\Debug\netcoreapp3.1\Problem 2. Ad Astra.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals-C#\Exam prep2\Problem 2. Ad Astra\obj\Debug\netcoreapp3.1\Problem 2. Ad Astra.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals-C#\Exam prep2\Problem 2. Ad Astra\obj\Debug\netcoreapp3.1\Problem 2. Ad Astra.AssemblyInfo.cs
+D:\SoftUni\Fundamentals-C#\Exam prep2\Problem 2. Ad Astra\obj\Debug\netcoreapp3.1\Problem 2. Ad Astra.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals-C#\Exam prep2\Problem 2. Ad Astra\obj\Debug\netcoreapp3.1\Problem 2. Ad Astra.dll
+D:\SoftUni\Fundamentals-C#\Exam prep2\Problem 2. Ad Astra\obj\Debug\netcoreapp3.1\Problem 2. Ad Astra.pdb
+D:\SoftUni\Fundamentals-C#\Exam prep2\Problem 2. Ad Astra\obj\Debug\netcoreapp3.1\Problem 2. Ad Astra.genruntimeconfig.cache
