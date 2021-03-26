@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals-C#\Exam prep2\Problem 3. The Pianist\bin\Debug\netcoreapp3.1\Problem 3. The Pianist.exe
+D:\SoftUni\Fundamentals-C#\Exam prep2\Problem 3. The Pianist\bin\Debug\netcoreapp3.1\Problem 3. The Pianist.deps.json
+D:\SoftUni\Fundamentals-C#\Exam prep2\Problem 3. The Pianist\bin\Debug\netcoreapp3.1\Problem 3. The Pianist.runtimeconfig.json
+D:\SoftUni\Fundamentals-C#\Exam prep2\Problem 3. The Pianist\bin\Debug\netcoreapp3.1\Problem 3. The Pianist.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals-C#\Exam prep2\Problem 3. The Pianist\bin\Debug\netcoreapp3.1\Problem 3. The Pianist.dll
+D:\SoftUni\Fundamentals-C#\Exam prep2\Problem 3. The Pianist\bin\Debug\netcoreapp3.1\Problem 3. The Pianist.pdb
+D:\SoftUni\Fundamentals-C#\Exam prep2\Problem 3. The Pianist\obj\Debug\netcoreapp3.1\Problem 3. The Pianist.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals-C#\Exam prep2\Problem 3. The Pianist\obj\Debug\netcoreapp3.1\Problem 3. The Pianist.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals-C#\Exam prep2\Problem 3. The Pianist\obj\Debug\netcoreapp3.1\Problem 3. The Pianist.AssemblyInfo.cs
+D:\SoftUni\Fundamentals-C#\Exam prep2\Problem 3. The Pianist\obj\Debug\netcoreapp3.1\Problem 3. The Pianist.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals-C#\Exam prep2\Problem 3. The Pianist\obj\Debug\netcoreapp3.1\Problem 3. The Pianist.dll
+D:\SoftUni\Fundamentals-C#\Exam prep2\Problem 3. The Pianist\obj\Debug\netcoreapp3.1\Problem 3. The Pianist.pdb
+D:\SoftUni\Fundamentals-C#\Exam prep2\Problem 3. The Pianist\obj\Debug\netcoreapp3.1\Problem 3. The Pianist.genruntimeconfig.cache
