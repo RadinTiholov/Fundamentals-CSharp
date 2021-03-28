@@ -1,0 +1,13 @@
+D:\C# Practice\Exam prep3\Exam prep3\bin\Debug\netcoreapp3.1\Exam prep3.exe
+D:\C# Practice\Exam prep3\Exam prep3\bin\Debug\netcoreapp3.1\Exam prep3.deps.json
+D:\C# Practice\Exam prep3\Exam prep3\bin\Debug\netcoreapp3.1\Exam prep3.runtimeconfig.json
+D:\C# Practice\Exam prep3\Exam prep3\bin\Debug\netcoreapp3.1\Exam prep3.runtimeconfig.dev.json
+D:\C# Practice\Exam prep3\Exam prep3\bin\Debug\netcoreapp3.1\Exam prep3.dll
+D:\C# Practice\Exam prep3\Exam prep3\bin\Debug\netcoreapp3.1\Exam prep3.pdb
+D:\C# Practice\Exam prep3\Exam prep3\obj\Debug\netcoreapp3.1\Exam prep3.csprojAssemblyReference.cache
+D:\C# Practice\Exam prep3\Exam prep3\obj\Debug\netcoreapp3.1\Exam prep3.AssemblyInfoInputs.cache
+D:\C# Practice\Exam prep3\Exam prep3\obj\Debug\netcoreapp3.1\Exam prep3.AssemblyInfo.cs
+D:\C# Practice\Exam prep3\Exam prep3\obj\Debug\netcoreapp3.1\Exam prep3.csproj.CoreCompileInputs.cache
+D:\C# Practice\Exam prep3\Exam prep3\obj\Debug\netcoreapp3.1\Exam prep3.dll
+D:\C# Practice\Exam prep3\Exam prep3\obj\Debug\netcoreapp3.1\Exam prep3.pdb
+D:\C# Practice\Exam prep3\Exam prep3\obj\Debug\netcoreapp3.1\Exam prep3.genruntimeconfig.cache
