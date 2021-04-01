@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\Fundamentals-C#\\Exam prep3\\Exam prep3\\Exam prep3.csproj": {}
+    "D:\\SoftUni\\Fundamentals-C#\\Exam prep3\\Problem 1. World Tour\\Problem 1. World Tour.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\Fundamentals-C#\\Exam prep3\\Exam prep3\\Exam prep3.csproj": {
+    "D:\\SoftUni\\Fundamentals-C#\\Exam prep3\\Problem 1. World Tour\\Problem 1. World Tour.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\Fundamentals-C#\\Exam prep3\\Exam prep3\\Exam prep3.csproj",
-        "projectName": "Exam prep3",
-        "projectPath": "D:\\SoftUni\\Fundamentals-C#\\Exam prep3\\Exam prep3\\Exam prep3.csproj",
+        "projectUniqueName": "D:\\SoftUni\\Fundamentals-C#\\Exam prep3\\Problem 1. World Tour\\Problem 1. World Tour.csproj",
+        "projectName": "Problem 1. World Tour",
+        "projectPath": "D:\\SoftUni\\Fundamentals-C#\\Exam prep3\\Problem 1. World Tour\\Problem 1. World Tour.csproj",
         "packagesPath": "C:\\Users\\radit\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\Fundamentals-C#\\Exam prep3\\Exam prep3\\obj\\",
+        "outputPath": "D:\\SoftUni\\Fundamentals-C#\\Exam prep3\\Problem 1. World Tour\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
