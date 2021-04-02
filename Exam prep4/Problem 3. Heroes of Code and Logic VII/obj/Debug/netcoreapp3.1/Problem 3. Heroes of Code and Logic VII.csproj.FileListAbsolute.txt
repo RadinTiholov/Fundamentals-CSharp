@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals-C#\Exam prep4\Problem 3. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\Problem 3. Heroes of Code and Logic VII.exe
+D:\SoftUni\Fundamentals-C#\Exam prep4\Problem 3. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\Problem 3. Heroes of Code and Logic VII.deps.json
+D:\SoftUni\Fundamentals-C#\Exam prep4\Problem 3. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\Problem 3. Heroes of Code and Logic VII.runtimeconfig.json
+D:\SoftUni\Fundamentals-C#\Exam prep4\Problem 3. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\Problem 3. Heroes of Code and Logic VII.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals-C#\Exam prep4\Problem 3. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\Problem 3. Heroes of Code and Logic VII.dll
+D:\SoftUni\Fundamentals-C#\Exam prep4\Problem 3. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\Problem 3. Heroes of Code and Logic VII.pdb
+D:\SoftUni\Fundamentals-C#\Exam prep4\Problem 3. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\Problem 3. Heroes of Code and Logic VII.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals-C#\Exam prep4\Problem 3. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\Problem 3. Heroes of Code and Logic VII.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals-C#\Exam prep4\Problem 3. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\Problem 3. Heroes of Code and Logic VII.AssemblyInfo.cs
+D:\SoftUni\Fundamentals-C#\Exam prep4\Problem 3. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\Problem 3. Heroes of Code and Logic VII.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals-C#\Exam prep4\Problem 3. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\Problem 3. Heroes of Code and Logic VII.dll
+D:\SoftUni\Fundamentals-C#\Exam prep4\Problem 3. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\Problem 3. Heroes of Code and Logic VII.pdb
+D:\SoftUni\Fundamentals-C#\Exam prep4\Problem 3. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\Problem 3. Heroes of Code and Logic VII.genruntimeconfig.cache

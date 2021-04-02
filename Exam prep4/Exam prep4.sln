@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam prep4", "Exam prep4\Exam prep4.csproj", "{8BBDD0B7-D475-4B80-BFB6-6223DE204509}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3. Heroes of Code and Logic VII", "Problem 3. Heroes of Code and Logic VII\Problem 3. Heroes of Code and Logic VII.csproj", "{96864612-5B07-4702-BC69-AE859D4F09C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BBDD0B7-D475-4B80-BFB6-6223DE204509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BBDD0B7-D475-4B80-BFB6-6223DE204509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BBDD0B7-D475-4B80-BFB6-6223DE204509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BBDD0B7-D475-4B80-BFB6-6223DE204509}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96864612-5B07-4702-BC69-AE859D4F09C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96864612-5B07-4702-BC69-AE859D4F09C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96864612-5B07-4702-BC69-AE859D4F09C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96864612-5B07-4702-BC69-AE859D4F09C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61708488-D8EB-40C8-83DA-948D9E689C77}
+	EndGlobalSection
+EndGlobal
