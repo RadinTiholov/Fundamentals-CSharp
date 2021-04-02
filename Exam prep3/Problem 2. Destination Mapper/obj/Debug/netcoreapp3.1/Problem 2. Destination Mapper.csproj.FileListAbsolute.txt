@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals-C#\Exam prep3\Problem 2. Destination Mapper\bin\Debug\netcoreapp3.1\Problem 2. Destination Mapper.exe
+D:\SoftUni\Fundamentals-C#\Exam prep3\Problem 2. Destination Mapper\bin\Debug\netcoreapp3.1\Problem 2. Destination Mapper.deps.json
+D:\SoftUni\Fundamentals-C#\Exam prep3\Problem 2. Destination Mapper\bin\Debug\netcoreapp3.1\Problem 2. Destination Mapper.runtimeconfig.json
+D:\SoftUni\Fundamentals-C#\Exam prep3\Problem 2. Destination Mapper\bin\Debug\netcoreapp3.1\Problem 2. Destination Mapper.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals-C#\Exam prep3\Problem 2. Destination Mapper\bin\Debug\netcoreapp3.1\Problem 2. Destination Mapper.dll
+D:\SoftUni\Fundamentals-C#\Exam prep3\Problem 2. Destination Mapper\bin\Debug\netcoreapp3.1\Problem 2. Destination Mapper.pdb
+D:\SoftUni\Fundamentals-C#\Exam prep3\Problem 2. Destination Mapper\obj\Debug\netcoreapp3.1\Problem 2. Destination Mapper.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals-C#\Exam prep3\Problem 2. Destination Mapper\obj\Debug\netcoreapp3.1\Problem 2. Destination Mapper.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals-C#\Exam prep3\Problem 2. Destination Mapper\obj\Debug\netcoreapp3.1\Problem 2. Destination Mapper.AssemblyInfo.cs
+D:\SoftUni\Fundamentals-C#\Exam prep3\Problem 2. Destination Mapper\obj\Debug\netcoreapp3.1\Problem 2. Destination Mapper.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals-C#\Exam prep3\Problem 2. Destination Mapper\obj\Debug\netcoreapp3.1\Problem 2. Destination Mapper.dll
+D:\SoftUni\Fundamentals-C#\Exam prep3\Problem 2. Destination Mapper\obj\Debug\netcoreapp3.1\Problem 2. Destination Mapper.pdb
+D:\SoftUni\Fundamentals-C#\Exam prep3\Problem 2. Destination Mapper\obj\Debug\netcoreapp3.1\Problem 2. Destination Mapper.genruntimeconfig.cache

@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exam prep3", "Exam prep3\Exam prep3.csproj", "{F8596AE3-7BC4-4289-AD5B-F1C8CC863559}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1. World Tour", "Problem 1. World Tour\Problem 1. World Tour.csproj", "{D895A31F-A1FE-4E34-AF44-C2870BAEEC6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 1. World Tour", "Problem 1. World Tour\Problem 1. World Tour.csproj", "{D895A31F-A1FE-4E34-AF44-C2870BAEEC6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2. Destination Mapper", "Problem 2. Destination Mapper\Problem 2. Destination Mapper.csproj", "{599395F6-E533-47A3-9F25-C6BBB4632524}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{D895A31F-A1FE-4E34-AF44-C2870BAEEC6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D895A31F-A1FE-4E34-AF44-C2870BAEEC6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D895A31F-A1FE-4E34-AF44-C2870BAEEC6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{599395F6-E533-47A3-9F25-C6BBB4632524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{599395F6-E533-47A3-9F25-C6BBB4632524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{599395F6-E533-47A3-9F25-C6BBB4632524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{599395F6-E533-47A3-9F25-C6BBB4632524}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
