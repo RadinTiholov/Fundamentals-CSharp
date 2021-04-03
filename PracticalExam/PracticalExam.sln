@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticalExam", "PracticalExam\PracticalExam.csproj", "{47F668BA-A038-4EBD-87FB-42590CB43FCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem2", "Problem2\Problem2.csproj", "{7FAA77DB-4DC5-45A3-8C4B-240A1A0FEDB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem3", "Problem3\Problem3.csproj", "{FD204AE2-392A-4BA3-8711-300CDB94FD68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47F668BA-A038-4EBD-87FB-42590CB43FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47F668BA-A038-4EBD-87FB-42590CB43FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47F668BA-A038-4EBD-87FB-42590CB43FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47F668BA-A038-4EBD-87FB-42590CB43FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FAA77DB-4DC5-45A3-8C4B-240A1A0FEDB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FAA77DB-4DC5-45A3-8C4B-240A1A0FEDB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FAA77DB-4DC5-45A3-8C4B-240A1A0FEDB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FAA77DB-4DC5-45A3-8C4B-240A1A0FEDB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD204AE2-392A-4BA3-8711-300CDB94FD68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD204AE2-392A-4BA3-8711-300CDB94FD68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD204AE2-392A-4BA3-8711-300CDB94FD68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD204AE2-392A-4BA3-8711-300CDB94FD68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81925A08-84D4-4C30-AC6E-28AC5DFDDC87}
+	EndGlobalSection
+EndGlobal

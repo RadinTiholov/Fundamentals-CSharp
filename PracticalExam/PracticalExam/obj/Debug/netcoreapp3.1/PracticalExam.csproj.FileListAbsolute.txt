@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals-C#\PracticalExam\PracticalExam\bin\Debug\netcoreapp3.1\PracticalExam.exe
+D:\SoftUni\Fundamentals-C#\PracticalExam\PracticalExam\bin\Debug\netcoreapp3.1\PracticalExam.deps.json
+D:\SoftUni\Fundamentals-C#\PracticalExam\PracticalExam\bin\Debug\netcoreapp3.1\PracticalExam.runtimeconfig.json
+D:\SoftUni\Fundamentals-C#\PracticalExam\PracticalExam\bin\Debug\netcoreapp3.1\PracticalExam.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals-C#\PracticalExam\PracticalExam\bin\Debug\netcoreapp3.1\PracticalExam.dll
+D:\SoftUni\Fundamentals-C#\PracticalExam\PracticalExam\bin\Debug\netcoreapp3.1\PracticalExam.pdb
+D:\SoftUni\Fundamentals-C#\PracticalExam\PracticalExam\obj\Debug\netcoreapp3.1\PracticalExam.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals-C#\PracticalExam\PracticalExam\obj\Debug\netcoreapp3.1\PracticalExam.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals-C#\PracticalExam\PracticalExam\obj\Debug\netcoreapp3.1\PracticalExam.AssemblyInfo.cs
+D:\SoftUni\Fundamentals-C#\PracticalExam\PracticalExam\obj\Debug\netcoreapp3.1\PracticalExam.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals-C#\PracticalExam\PracticalExam\obj\Debug\netcoreapp3.1\PracticalExam.dll
+D:\SoftUni\Fundamentals-C#\PracticalExam\PracticalExam\obj\Debug\netcoreapp3.1\PracticalExam.pdb
+D:\SoftUni\Fundamentals-C#\PracticalExam\PracticalExam\obj\Debug\netcoreapp3.1\PracticalExam.genruntimeconfig.cache
