@@ -1,0 +1,19 @@
+﻿@model int
+@{      ViewData["Title"] = "Generator";
+}
+<h1>@ViewData["Title"]</h1>
+
+<a href ="https://softuni.bg/">SoftUni!</a>
+
+<form asp-action="NumGenerator" method="post">
+
+    <input class="form-control" name="num" id="num" type ="number"/>
+    <button class="btn btn-success" type ="submit">Submit</button>
+</form>
+
+<ul>
+    @for (int i = 0; i <= Model; i++)
+    {
+        <li>@i</li>
+    }
+</ul>
